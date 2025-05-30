@@ -1,0 +1,13 @@
+# Generated data
+data/vectorstore/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
