@@ -1,0 +1,23 @@
+# Core dependencies
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+
+# Vector store and embeddings
+faiss-cpu
+sentence-transformers
+langchain-huggingface
+
+# Web interface
+streamlit
+
+# Environment variables
+python-dotenv
+
+# Data processing
+pandas
+numpy
+
+# Utilities
+tqdm
